@@ -17,6 +17,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
   - [Author](#author)
+  - [Live Version](#live-version)
 
 
 
@@ -80,3 +81,5 @@ main {
 - Frontend Mentor - [@vishnupal
 ](https://www.frontendmentor.io/profile/vishnupal)
 
+## Live Version
+- Live website -[link](https://jazzy-kangaroo-623f93.netlify.app/)
